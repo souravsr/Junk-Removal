@@ -1,0 +1,182 @@
+header{
+	background: black;
+	padding-bottom: 15px;
+	margin-bottom: 5px;
+	padding-left: 25px;
+	padding-top: 15px;
+}
+
+h1{
+	color: blue;
+	display: inline-block;
+	font-size: 40px;
+	font-family: Helvetica,serif;
+}
+
+.sec{
+	height: 200px;
+}
+
+.secn{
+	display: inline-block;
+	width:45%;
+	float: left;
+	text-align: justify;
+	margin: 2%
+}
+
+#para{
+	font-size: 20px;
+	font-family: Arial;
+
+}
+
+nav{
+	font-family: Arial, "Times New Roman", serif;
+	font-size: 20px;
+	color: white;
+}
+
+nav a{
+	display: inline-block;
+	background-color: black;
+	width:84px;
+	height: 25px;
+	margin-right: 10px;
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	background: white;
+	color: black;
+}
+
+a:focus{
+	background: white;
+	color: black;
+}
+
+a:active{
+	border: 3px solid magenta;
+}
+
+.secn nav {
+	font-family: Arial, "Times New Roman", serif;
+	font-size: 100%;
+}
+
+.secn .nv a{
+	display: inline-block;
+	background-color: #ffffff;
+	width:5%;
+	text-decoration: none;
+}
+
+footer{
+	height:200px;
+	clear: both;
+	color: white;
+	font-size: 20px;
+	background: black;
+	border: 1px solid black;
+	text-align: center;
+}
+
+#ig{
+	width: 75%;
+	height:80px;
+
+}
+
+.fig{
+	display: table-caption;
+  	caption-side: bottom;
+  	text-align: center;
+  	color: blue;
+  	font-size: 20px;
+  	font-family: Arial;
+}
+
+figure {
+  display: table;
+}
+figcaption {
+  display: table-caption;
+  caption-side: top;
+  text-align: center;
+  color: blue;
+  font-size: 30px;
+  font-family: Arial;
+}
+
+button{
+	height: 50px;
+	width: 30%;
+	margin-right: 10px;
+	font-size: 20px;
+	background: #83BB61;
+	
+}
+
+button a{
+	text-decoration: none;
+}
+
+#bt{
+	height: 30px;
+	width: 84px;
+	margin-right: 10px;
+	font-size: 20px;
+	background: black;
+	border: none;
+	text-decoration: none;
+}
+
+.xc{
+	height: 325px;
+	width: 100%;
+	clear: both;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+}
+
+.xc div.icon{
+	display: inline-block;
+	width: 18%;
+	padding: 5px;
+	text-align: center;
+
+}
+
+#hdd{
+	clear: both;
+}
+
+#hdk{
+	color:white;
+
+}
+
+.hd{
+	width: 30%;
+	display: inline-block;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.hd1{
+	width: 65%;
+	display: inline-block;
+	float: left;
+	margin-bottom: 20px;
+	margin-left: none;
+	text-align: left;
+	color: white;
+}
+
+#head1{
+	width: 90%;
+	height: 50%;
+	align-self: center;
+}
